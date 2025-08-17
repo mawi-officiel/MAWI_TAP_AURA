@@ -36,7 +36,7 @@ MAWI TAP AURA is a versatile browser extension that personalizes your New Tab pa
 
 <img src="https://i.ibb.co/M1cJHcx/Material-You-New-Tab-Preview.jpg" alt="Screenshot 1" width="100%">
 
-#### 🔴 🟡 🟢 Test live : https://github.com/mawi-officiel/MAWI_TAP_AURA
+#### 🔴 🟡 🟢 Test live : https://mawi-officiel.github.io/MAWI_TAP_AURA/
 
 ## ✨ Features
 
